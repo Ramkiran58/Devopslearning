@@ -1,4 +1,7 @@
 #!/bin/bash
+
+
+
 NUM=1
 while read LINE
 do 
