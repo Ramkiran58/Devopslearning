@@ -25,3 +25,4 @@ echo "divison of $VAR1 and $VAR2 is $DIV"
 echo "##"
 echo "modifying a file to learn merge concept"
 
+echo "for merging example"
