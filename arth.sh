@@ -24,3 +24,4 @@ echo "difference of $VAR1 and $VAR2 is $SUB"
 echo "divison of $VAR1 and $VAR2 is $DIV"
 echo "##"
 
+echo "for merging example"
