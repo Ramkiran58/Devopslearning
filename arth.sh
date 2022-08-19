@@ -23,4 +23,5 @@ echo "multiplication of $VAR1 and $VAR2 is $MUL"
 echo "difference of $VAR1 and $VAR2 is $SUB"
 echo "divison of $VAR1 and $VAR2 is $DIV"
 echo "##"
+echo "modifying a file to learn merge concept"
 
