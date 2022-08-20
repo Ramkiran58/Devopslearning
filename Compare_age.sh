@@ -13,3 +13,5 @@ do
 done < $1
 rm del.txt
 
+echo "unwanted line"
+
